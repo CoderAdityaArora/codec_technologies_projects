@@ -1,4 +1,4 @@
-# AI Resume Parser (Python)
+# PROJECT 1 : AI Resume Parsor
 
 ## Overview
 
@@ -44,4 +44,5 @@ AI-Resume-Parser/
 
 ## Author
 
-Aditya Arora
+**Aditya Arora**
+b.tech CSE (AIML)
