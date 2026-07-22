@@ -1,4 +1,4 @@
-# PROJECT 1 : AI Resume Parsor
+# PROJECT 1 : AI Resume Parser
 
 ## Overview
 
