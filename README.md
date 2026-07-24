@@ -42,7 +42,44 @@ AI-Resume-Parser/
     └── sample_resume.pdf
 ```
 
-## Author
+ # PROJECT 2 :  Real-Time Stock Market Dashboard
+A real-time stock market dashboard built using Python and Streamlit.
 
+## Features
+- Live stock price tracking
+- Interactive Plotly charts
+- Historical stock data
+- Company information
+- Download stock data as CSV
+
+## Technologies
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- yfinance
+- Requests
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the app:
+
+```bash
+streamlit run app.py
+```
+
+## Example Symbols
+- APPLE
+- TESLA
+- MICROSOFT
+- GOOGLE
+- AMAZON
+- NVIDIA
+
+## Author
 **Aditya Arora**
-b.tech CSE (AIML)
+**b.tech CSE (AIML)**
